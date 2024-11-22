@@ -1,0 +1,7 @@
+tensorflow==2.4.1
+scikit-learn
+matplotlib
+visualkeras
+opencv-contrib-python==3.4.15.55
+pygame
+catkin_pkg
