@@ -1,6 +1,6 @@
 # Проект: Автономний автомобіль
 
-[Відео проекту](res/comp_vision.gif)
+![Відео проекту](res/comp_vision.gif)
 
 ## Дерево проекту
 
@@ -99,7 +99,7 @@ colcon build
 
 ### Запуск середовища
 
-[Запуск Gazebo](res/gazebo_launch.gif)
+![Запуск Gazebo](res/gazebo_launch.gif)
 
 1. Перейдіть до каталогу проекту:
 
@@ -127,7 +127,7 @@ ros2 launch self_driving_car_pkg world_gazebo.launch.py
 
 ### Запуск моделі навігації
 
-[Запуск навігації](res/comp_vision.gif)
+![Запуск навігації](res/comp_vision.gif)
 
 1. Перейдіть до каталогу проекту:
 
